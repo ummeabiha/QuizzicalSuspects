@@ -1,6 +1,7 @@
 # Tkinter_Project
 Quizzical Suspects
 Quiz Application
+
 Quizzical Suspects is a demo quiz application . The inspiration of this project has been taken from Neduet's entrance test system. The feature includes:
 🔹Signup feature to make an account for new users. The user data will be saved in MS Access database. 
 🔹 Username verification from database. Generates an error if the username is taken by another user.
