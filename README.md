@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-Have you ever encountered a concept that only became clear when you tried to implement it? Fear not, for we present the solution with "Quizzical Suspects," a demo quiz application inspired by NEDUETI's entrance test. This application features proper sign-up and login functionalities, displaying previous attempt results upon login. Users can choose from different subjects, each with three difficulty levels: Easy, Medium, and Hard. Questions are randomly selected from the database, and users can attempt the quiz multiple times.
+Have you ever encountered a concept that only became clear when you tried to implement it? Fear not, for we present the solution with "Quizzical Suspects," a demo quiz application inspired by NEDUET's entrance test. This application features proper sign-up and login functionalities, displaying previous attempt results upon login. Users can choose from different subjects, each with three difficulty levels: Easy, Medium, and Hard. Questions are randomly selected from the database, and users can attempt the quiz multiple times.
 
 ## Features
 
