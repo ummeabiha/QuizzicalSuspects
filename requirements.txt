@@ -1,0 +1,2 @@
+tkinter==8.6          # Tkinter version (may vary depending on your Python version)
+pyodbc==4.0.32         # pyodbc version
